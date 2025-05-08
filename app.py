@@ -23,7 +23,6 @@ model = genai.GenerativeModel('gemini-2.0-flash')
 
 # Load and initialize the sentence transformer model
 sentence_model = SentenceTransformer('all-MiniLM-L6-v2')
-
 # Load course and instructor data from JSON files
 with open("data/courses.json", "r") as f:
     courses = json.load(f)
