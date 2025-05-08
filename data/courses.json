@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Introduction to Python",
+        "description": "Learn Python programming basics",
+        "instructor": "John Doe",
+        "duration": "4 weeks"
+    },
+    {
+        "name": "Advanced Machine Learning",
+        "description": "Deep dive into ML algorithms",
+        "instructor": "Jane Smith",
+        "duration": "8 weeks"
+    }
+]

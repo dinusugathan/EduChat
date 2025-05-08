@@ -1,0 +1,12 @@
+[
+    {
+        "name": "John Doe",
+        "bio": "Python expert with 10 years experience",
+        "courses": ["Introduction to Python"]
+    },
+    {
+        "name": "Jane Smith",
+        "bio": "ML researcher and educator",
+        "courses": ["Advanced Machine Learning"]
+    }
+]
