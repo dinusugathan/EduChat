@@ -1,4 +1,3 @@
-streamlit
-sentence-transformers==2.2.2
-torch==1.12.1
-transformers
+fastapi
+uvicorn[standard]
+jinja2
